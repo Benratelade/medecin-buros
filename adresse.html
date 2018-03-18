@@ -36,6 +36,9 @@ permalink: /adresse
 								<h5 class="card-title">{{ pro.name }}</h5>
 								<h6 class="card-subtitle mb-2 text-muted">{{ pro.profession }}</h6>
 								<p class="card-text">{{ pro.phone }}</p>
+								{% if pro.url %}
+								<a href="{{ pro.url }}" target="_blank">{{ pro.url }}</a>
+								{% endif %}
 							</div>
 						</div>
 					</div>

@@ -1,44 +1,44 @@
 [
 	{
-		"name": "Cerqueira Nathalie",
+		"name": "CERQUEIRA Nathalie",
 		"profession": "Infirmière diplômée d'état", 
 		"phone": "06 09 14 38 76",
 		"url": ""
 	}, 
 	{
-		"name": "Soudar Elodie",
+		"name": "SOUDAR Elodie",
 		"phone": "06 59 87 52 92",
 		"profession": "Infirmière diplômée d'état", 
 		"url": ""
 	}, 
 	{
-		"name": "Bougrier Michelle",
+		"name": "BOUGRIER Michelle",
 		"phone": "06 40 78 43 31",
 		"profession": "Infirmière diplômée d'état", 
 		"url": ""
 	}, 
 	{
-		"name": "Dr Garcia Sophie",
+		"name": "Dr GARCIA Sophie",
 		"profession": "dentiste", 
 		"phone": "05 59 00 07 68",
 		"url": ""
 	}, 
 	{
-		"name": "",
+		"name": "POYCHICOT-COUSTAU Mathilde",
 		"phone": "05 59 13 79 13",
 		"profession": "kinésitherapeute", 
 		"url": ""
 	}, 
 	{
-		"name": "",
+		"name": "AUZIAS Laure",
 		"phone": "06 61 87 08 34",
 		"profession": "orthophoniste", 
 		"url": ""
 	}, 
 	{
-		"name": "",
+		"name": "CORMIER Xavier",
 		"phone": "06 59 38 67 44",
 		"profession": "ostéopathe", 
-		"url": ""
+		"url": "www.osteopathe-cormier.com"
 	}
 ]
