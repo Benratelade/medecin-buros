@@ -3,7 +3,6 @@ description: Ulysse Paultre, médecin généraliste à Buros
 author: Docteur Ulysse Paultre
 about: Médecin Généraliste à Buros
 
-url: "http://localhost:4000"
 permalinks: pretty
 
 allowsearch: true
