@@ -1,0 +1,14 @@
+a {
+	&.btn {
+		&.btn-primary {
+			&.btn-raised{
+				&.book-now-button {
+					background-color: #448aff; 
+					&:hover {
+						background-color: #2979ff;
+					}
+				}
+			}
+		}
+	}
+}
