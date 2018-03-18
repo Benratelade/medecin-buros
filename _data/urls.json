@@ -6,11 +6,6 @@
     "layout": "post"
   },
   {
-    "text": "Me contacter",
-    "url": "/me-contacter",
-    "icon": "fa-comments"
-  },
-    {
     "text": "Horaires",
     "url": "/horaires-tarifs",
     "icon": "fa-calendar-alt"
