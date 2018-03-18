@@ -3,7 +3,7 @@ layout: page
 title: Me Trouver
 permalink: /adresse
 ---
-		<div class="row">
+		<div class="row align-items-center">
 			<div class="col-md-6 order-1">
 				<div class="card" style="width: 99%;">
 					<div class="card-body">
@@ -14,7 +14,7 @@ permalink: /adresse
 							<br>Fixe : 05 59 84 89 78
 						</p>
 						<a href="https://agenda.direct/rendez-vous/ulysse-paultre/buros/medecin-generaliste/10100863777" class="btn btn-raised btn-primary" target="_blank">Prendre rendez vous</a>
-						<em>*la prise des rendez vous se fait sur <a href="www.agenda.direct" target="_blank">www.agenda.direct</a> et nécessite d'avoir une adresse mail.<em>
+						<p><em>*La prise des rendez vous se fait sur <a href="www.agenda.direct" target="_blank">www.agenda.direct</a> et nécessite d'avoir une adresse mail.</em></p>
 					</div>
 				</div>
 			</div>
@@ -28,18 +28,19 @@ permalink: /adresse
 	<h4 class="home-subtitle">Autres professionnels dans le pôle de santé :</h4>
 	<div class="row">
 		<div class="col-md-12">
-			{% for pro in site.data.professionnels %}
-
-			<div class="list-group">
-				<a href="#" class="list-group-item list-group-item-action flex-column align-items-start">	
-					<div class="d-flex w-100 justify-content-between">
-					<h5 class="mb-1">{{ pro.name }}</h5>
-					<small>{{ pro.profession }}</small>
+			<div class="row">
+				{% for pro in site.data.professionnels %}
+					<div class="pros-tiles col-md-4 mb-3">
+						<div class="card" style="width: 100%;">
+							<div class="card-body">
+								<h5 class="card-title">{{ pro.name }}</h5>
+								<h6 class="card-subtitle mb-2 text-muted">{{ pro.profession }}</h6>
+								<p class="card-text">{{ pro.phone }}</p>
+							</div>
+						</div>
 					</div>
-					<p class="mb-1">{{ pro.phone }}</p>
-				</a>
-			</div>
-			{% endfor %}
+				{% endfor %}
+			</div>		
 		</div>
 	</div>
 </div>
