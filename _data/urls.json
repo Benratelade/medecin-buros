@@ -7,12 +7,12 @@
   },
   {
     "text": "Me contacter",
-    "url": "/me-contacter/",
+    "url": "/me-contacter",
     "icon": "fa-comments"
   },
     {
     "text": "Rendez-vous",
-    "url": "/rendez-vous/",
+    "url": "/rendez-vous",
     "icon": "fa-calendar-alt"
   },
   {
