@@ -11,8 +11,8 @@
     "icon": "fa-comments"
   },
     {
-    "text": "Rendez-vous",
-    "url": "/rendez-vous",
+    "text": "Horaires et Tarifs",
+    "url": "/horaires-tarifs",
     "icon": "fa-calendar-alt"
   },
   {
