@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Accueil",
+    "url": "/",
+    "icon": "fa-home",
+    "layout": "post"
+  },
+  {
+    "text": "Me contacter",
+    "url": "/me-contacter/",
+    "icon": "fa-comments"
+  },
+    {
+    "text": "Rendez-vous",
+    "url": "/rendez-vous/",
+    "icon": "fa-calendar-alt"
+  },
+  {
+    "text": "Me trouver",
+    "url": "/adresse",
+    "icon": "fa-map-marker-alt",
+  }
+]

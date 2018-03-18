@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Cerqueira Nathalie",
+		"profession": "Infirmière diplômée d'état", 
+		"phone": "06 09 14 38 76",
+		"url": ""
+	}, 
+	{
+		"name": "Soudar Elodie",
+		"phone": "06 59 87 52 92",
+		"profession": "Infirmière diplômée d'état", 
+		"url": ""
+	}, 
+	{
+		"name": "Bougrier Michelle",
+		"phone": "",
+		"profession": "Infirmière diplômée d'état", 
+		"url": ""
+	}, 
+	{
+		"name": "Dr Garcia Sophie",
+		"profession": "dentiste", 
+		"phone": "05 59 00 07 68",
+		"url": ""
+	}, 
+	{
+		"name": "",
+		"phone": "05 59 13 79 13",
+		"profession": "kinésitherapeutes", 
+		"url": ""
+	}, 
+	{
+		"name": "",
+		"phone": "06 61 87 08 34",
+		"profession": "orthophoniste", 
+		"url": ""
+	}, 
+	{
+		"name": "",
+		"phone": "06 59 38 67 44",
+		"profession": "ostéopathes", 
+		"url": ""
+	}
+]
