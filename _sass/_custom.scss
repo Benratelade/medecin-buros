@@ -20,3 +20,18 @@ a {
 .pros-tiles {
 	min-height: 128px;
 }
+
+.menu {
+	a.nav-link {
+		display: flex;
+		flex-direction: row; 
+		align-content: center; 
+		justify-content: flex-start; 
+		div {
+			&.nav-item-wrapper {
+				display: inline-block;
+				align-self: center; 
+			}
+		}
+	}
+}
